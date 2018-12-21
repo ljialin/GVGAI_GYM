@@ -11,7 +11,7 @@ import java.util.Random;
 /**
  * Code written by Adrien Couetoux, acouetoux@ulg.ac.be.
  * Date: 15/12/2015
- * @author Adrien Couëtoux
+ * @author Adrien Couetoux
  */
 
 public class Agent extends AbstractPlayer {
