@@ -3,7 +3,7 @@ package tracks.singlePlayer.advanced.olets;
 /**
  * Code written by Adrien Couetoux, acouetoux@ulg.ac.be.
  * Date: 15/12/2015
- * @author Adrien Couëtoux
+ * @author Adrien Couetoux
  */
 
 public class SingleTreeNode {
